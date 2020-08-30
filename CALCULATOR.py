@@ -64,9 +64,8 @@ Topframe = Frame(root)
 Topframe.pack()
 
 # DIGITS PANEL
+# Am still working on my button panel
 
-Bot1=Button(Topframe,text='1')
-Bot1.pack(side=LEFT)
 
 # CONTROL BUTTONS
 Botplus = Button(Topframe, text='+', command=addition)
